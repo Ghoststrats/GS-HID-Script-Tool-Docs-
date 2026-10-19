@@ -1,0 +1,33 @@
+GS HID Script - Quick Windows Installation Guide
+===============================================
+
+For Windows 10/11 (64-bit)
+
+DOWNLOAD
+1. Open the official GitHub installer page:
+   https://github.com/Ghoststrats/GS-HID-Script-Tool-Docs-/blob/main/GS-HID-Script-Setup.exe
+2. Click "Download raw file" (the download icon) to save GS-HID-Script-Setup.exe.
+
+INSTALL
+3. Open your Downloads folder and double-click GS-HID-Script-Setup.exe.
+4. Follow the on-screen installation steps.
+5. Launch GS HID Script from your Start menu. The program opens its interface in your web browser.
+
+FIRST USE
+6. Open the Learn section or load the Beginner Example in Script Lab.
+7. Preview and review a script before testing it.
+8. The Safety Switch starts ON (execution blocked). Only turn it OFF when you are ready to test on a computer you own or are authorized to use. Confirm before running.
+
+WHEN FINISHED
+9. Select "Disconnect GS HID Script from This Computer" in the app, wait for confirmation, then close the browser tab.
+
+UNINSTALL
+Open Windows Settings > Apps > Installed apps, find GS HID Script, and select Uninstall.
+
+IMPORTANT
+- GS HID Script is a free educational keyboard and mouse automation tool.
+- Scripts act on the currently focused application. Test with harmless examples.
+- The installer is unsigned and Windows security may block it. Do not disable security protections just to run it.
+- For complete features, supported commands, and limitations, read the GitHub README.
+
+Created by GhostStrats LLC
